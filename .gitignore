@@ -1,0 +1,2 @@
+.venv
+./site_checker_tool/__pycache__/*.pyc
